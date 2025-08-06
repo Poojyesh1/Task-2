@@ -61,9 +61,13 @@ The phishing email used in this analysis was sourced from a public collection fo
 
 ## 4. Screenshots/Images: 
 
+MAIL : 
 
+<img width="2525" height="1424" alt="Image" src="https://github.com/user-attachments/assets/01dfd816-c31a-4e61-af73-2303907e866a" />
 
+REPORT :
 
+<img width="2521" height="1163" alt="Image" src="https://github.com/user-attachments/assets/3ab72ec2-c044-482b-9bf8-33c7f7caf966" />
 
 ---
 
@@ -87,3 +91,4 @@ This email is a clear phishing attempt. It relies on alarming sign-in events, am
 ---
 
 **Reminder:** Only handle sanitized/educational samples from reputable public repositories—never real phishing emails from your inbox.
+
